@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Raúl Romera Pavón",
+    "subtitle": "Developer -- Creative -- Curious"
+  },
+  "about": {
+    "title": "About me",
+    "text": ["Multiplatform application developer.", "I enjoy working on large, challenging projects that test my skills and let me learn new things. I especially like desktop and video game development, although I also have experience with web and mobile applications. In my free time, I like to learn about new technologies and expand my knowledge across different areas of computing. I am a creative, curious person always ready to take on new challenges."]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      ["Portfolio", "this site, retro-modern style", "https://github.com/raulrp15/portfolio"],
+      ["Math Fighters", "a Street Fighters-like fighting game with math operations", "https://github.com/raulrp15/math-fighters"],
+      ["eCommerce App", "an example online store with database and authentication", "https://github.com/Alimentacion-Luna"],
+      ["Mauirillo", "the Pictionary-like game but made in MAUI, using SignalR Hubs for real-time multiplayer.", "https://github.com/raulrp15/mauirillo"]
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "items": [
+      ["JavaScript", "React, Node.js, Express"],
+      ["TypeScript", "Angular, Static typing"],
+      ["Python", "Django, Flask"],
+      ["Java", "Spring Boot, Android"],
+      ["Kotlin", "Android, Coroutines"],
+      ["C#", "Unity, .NET"],
+      ["HTML", "Semantic, Accessibility"],
+      ["CSS", "Tailwind, Flexbox, Grid"],
+      ["SQL", "MySQL, PostgreSQL"],
+      ["NoSQL", "MongoDB, Firebase"],
+      ["Lua", "Scripting, Config"],
+      ["Godot", "GDScript, 2D/3D Games"]
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email:",
+    "github": "GitHub:",
+    "linkedin": "LinkedIn:"
+  },
+  "footer": "hand-made with no UI frameworks"
+}

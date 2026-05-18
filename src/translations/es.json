@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Raúl Romera Pavón",
+    "subtitle": "Desarrollador -- Creativo -- Curioso"
+  },
+  "about": {
+    "title": "Sobre mi",
+    "text": ["Desarrollador de aplicaciones multiplataforma.", "Disfruto de hacer proyectos grandes y dificiles, que pongan a prueba mis habilidades y me permitan aprender cosas nuevas. Me gusta especialmente el desarrollo de aplicaciones de escritorio y videojuegos, aunque tambien tengo experiencia con aplicaciones web y moviles. En mi tiempo libre, me gusta aprender sobre nuevas tecnologias y ampliar mis conocimientos en diferentes areas de la informatica. Soy una persona creativa, curiosa y siempre dispuesta a enfrentar nuevos retos."]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "items": [
+      ["Portfolio", "este sitio, con estilo retro-moderno", "https://github.com/raulrp15/portfolio"],
+      ["Math Fighters", "un juego de peleas tipo Street Fighters, pero con operaciones matematicas", "https://github.com/raulrp15/math-fighters"],
+      ["App web eCommerce", "una tienda online de ejemplo, con base de datos y autenticacion", "https://github.com/Alimentacion-Luna"],
+      ["Mauirillo", "el juego Pinturillo pero hecho en MAUI, con el uso de Hubs de SignalR para el multijugador en tiempo real.", "https://github.com/raulrp15/mauirillo"]
+    ]
+  },
+  "skills": {
+    "title": "Habilidades",
+    "items": [
+      ["JavaScript", "React, Node.js, Express"],
+      ["TypeScript", "Angular, Tipado estatico"],
+      ["Python", "Django, Flask"],
+      ["Java", "Spring Boot, Android"],
+      ["Kotlin", "Android, Corrutinas"],
+      ["C#", "Unity, .NET"],
+      ["HTML", "Semantico, Accesibilidad"],
+      ["CSS", "Tailwind, Flexbox, Grid"],
+      ["SQL", "MySQL, PostgreSQL"],
+      ["NoSQL", "MongoDB, Firebase"],
+      ["Lua", "Scripting, Configuracion"],
+      ["Godot", "GDScript, Videojuegos 2D/3D"]
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "Email:",
+    "github": "GitHub:",
+    "linkedin": "LinkedIn:"
+  },
+  "footer": "hecho a mano sin frameworks de UI"
+}

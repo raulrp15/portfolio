@@ -1,0 +1,16 @@
+// Entry point: mounts React app inside the #root div
+// LangProvider wraps the app to enable i18n across all components
+
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import './index.css'
+import { LangProvider } from './LangContext'
+import App from './App.jsx'
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <LangProvider>
+      <App />
+    </LangProvider>
+  </StrictMode>,
+)
